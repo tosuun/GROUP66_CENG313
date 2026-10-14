@@ -1,2 +1,0 @@
-AddTagHelper NgModule
-This project uses data from two powerful Royal ObservatoryprovidedIn royal osRoyal Observatory Royal Observatory ScanRoyal Royal Royal ObservatoriesRoyal Royal Observatories
